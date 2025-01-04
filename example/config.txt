@@ -1,0 +1,2 @@
+Prefix plugins/HECRAS/example/
+Plugin HECRAS inputfile data/ outputfile none
